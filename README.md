@@ -1,6 +1,6 @@
 # Adventure-Works
 
-Finding our best-performing salespeople and products
+## Finding our best-performing salespeople and products
 
 What are our best products and salespeople, and how can we use this information to improve our overall performance?
 1.  Load the database and ensure you can run basic queries against it
