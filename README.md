@@ -1,5 +1,3 @@
-# Adventure-Works
-
 ## Finding our best-performing salespeople and products
 
 What are our best products and salespeople, and how can we use this information to improve our overall performance?
